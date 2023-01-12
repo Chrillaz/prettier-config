@@ -7,13 +7,13 @@
     "publishConfig": {
         "@chrillaz/prettier-config:registry": "https://npm.pkg.github.com"
     },
-    "homepage": "https://github.com/Chrillaz/toolkit/packages/prettier-config/",
+    "homepage": "https://github.com/Chrillaz/prettier-config/",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Chrillaz/toolkit.git"
+        "url": "git+https://github.com/Chrillaz/prettier-config.git"
     },
     "bugs": {
-        "url": "https://github.com/Chrillaz/toolkit/issues"
+        "url": "https://github.com/Chrillaz/prettier-config/issues"
     },
     "peerDependencies": {
         "prettier": ">= 2"
